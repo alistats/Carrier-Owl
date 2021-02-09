@@ -3,9 +3,16 @@ subject: 'cat:math.IT' OR 'cat:math.ST' OR 'cat:cs.CR' OR 'cat:stat.ML' OR 'cat:
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        privacy: 3
+        utility: 2
+        privacy-utility trade-off: 10
+        decision theory: 3
+        value of information: 4
+        differential privacy: 5
+        information leakage: 3
+        information theoretical: 3
+        information theory: 3
+        
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 5
