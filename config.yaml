@@ -7,11 +7,12 @@ keywords:
         utility: 2
         privacy-utility trade-off: 10
         decision theory: 3
-        value of information: 4
+        value of information: 5
         differential privacy: 5
         information leakage: 3
         information theoretical: 3
         information theory: 3
+        information theoretical privacy: 5
         
 # 通知の閾値
 score_threshold: 5
