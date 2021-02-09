@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:math.IT' OR 'cat:math.ST' OR 'cat:cs.CR' OR 'cat:stat.ML' OR 'cat:stat.TH'
+subject: 'cat:math.IT OR cat:math.ST OR cat:cs.CR OR cat:stat.ML OR cat:stat.TH'
 
 # 検索キーワード
 keywords:
@@ -13,6 +13,5 @@ keywords:
         information theoretical: 3
         information theory: 3
         
-
 # 通知の閾値
 score_threshold: 5
