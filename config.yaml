@@ -3,10 +3,13 @@ subject: 'cat:math.IT OR cat:math.ST OR cat:cs.CR OR cat:stat.ML OR cat:stat.TH'
 
 # 検索キーワード
 keywords:
+        causal inference: 3
+        bayesian decision: 3
+        bayesian statistics: 3
+        decision theory: 3
         privacy: 3
         utility: 2
         privacy-utility trade-off: 10
-        decision theory: 3
         value of information: 5
         differential privacy: 5
         information leakage: 3
