@@ -16,6 +16,8 @@ keywords:
         information theoretical: 3
         information theory: 3
         information theoretical privacy: 5
+        information bottleneck: 4
+        privacy funnel: 4
         
 # 通知の閾値
 score_threshold: 5
